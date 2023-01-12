@@ -1,6 +1,10 @@
 # Project Title
 
-Responsive Websites With Bootstrap
+Search Countries
+
+## Description
+
+Simple app for country search by region or language with possibility to sort 
 
 ## Getting Started
 
@@ -8,4 +12,4 @@ Just launch index.html file
 
 ## Contact
 
-Project link: https://dreamy-melba-f5fc30.netlify.app/
+Project link: https://resonant-truffle-e985c3.netlify.app/
